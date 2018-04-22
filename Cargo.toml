@@ -1,0 +1,6 @@
+[package]
+name = "rust-workshop-macros"
+version = "0.1.0"
+authors = ["Bernardo Belchior <bernardo.belchior1@gmail.com>"]
+
+[dependencies]
